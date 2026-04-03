@@ -4,9 +4,9 @@ Exploring how rapid population growth, especially among young people, is affecti
 
 ## Overview
 
-Africa has one of the youngest and fastest-growing populations in the world. This creates a big opportunity for economic growth, but also a challenge if enough jobs are not created.
+Africa has one of the youngest and fastest-growing populations in the world. This creates a major opportunity for economic growth, but also a challenge if enough jobs are not created.
 
-This project looks at how population growth and youth unemployment are related across selected African countries. It uses data from the World Bank and ILO to highlight the gap between the number of young people entering the labour market and the availability of formal jobs.
+This project analyzes the relationship between population growth and youth unemployment across selected African countries. Using Python, I visualized key trends to better understand how labour markets are responding to demographic changes.
 
 ## Objective
 
@@ -17,7 +17,7 @@ This project looks at how population growth and youth unemployment are related a
 ## Tools
 
 - Python (pandas, matplotlib)  
-- Basic data analysis and visualization  
+- Data visualization and basic analysis  
 
 ## Data Sources
 
@@ -41,4 +41,4 @@ This type of analysis helps highlight where investment, skills development, and 
 
 ## Output
 
-The project produces a visualization showing youth unemployment and population trends across countries.
+The project generates visualizations using Python to compare youth unemployment and population trends across countries.
